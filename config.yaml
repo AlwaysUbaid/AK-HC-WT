@@ -1,0 +1,10 @@
+apis:
+  hypercore_api: https://api.hyperliquid.xyz/info
+  price_api: https://hermes.pyth.network/v2/updates/price/latest
+  rpc_endpoint: https://rpc.hyperliquid.xyz/evm
+app:
+  refresh_interval: 60
+  title: HyperCore Wallet Tracker
+wallets:
+- address: '0xc28ff39e7c5519ba41e81e51a41dd21a062ae740'
+  label: whale
